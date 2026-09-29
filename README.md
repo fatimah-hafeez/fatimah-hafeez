@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Fatima Hafeez 👋
 
-<!--
-**fatimah-hafeez/fatimah-hafeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student pursuing a Bachelor's degree in Artificial Intelligence, currently building my foundations in programming, data, and computer science.
 
-Here are some ideas to get you started:
+### Current learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C++
+- Java
+- SQL & Databases
+- Statistics & Probability
+- Artificial Intelligence
+- Data Structures & Algorithms — currently exploring
+
+### My current focus
+
+I'm working toward becoming an AI Engineer by building strong foundations in programming, computer science, data, and machine learning.
+
+### Projects
+
+I'm gradually building and documenting projects alongside my degree, with a focus on turning what I learn into practical applications.
+
+### Education
+
+**Bachelor's in Artificial Intelligence**  
+Currently pursuing
+
+---
+
+*This profile documents my learning journey, projects, and growth throughout my degree.*
