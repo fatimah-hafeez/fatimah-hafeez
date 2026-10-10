@@ -1,4 +1,4 @@
-# Hi, I'm Fatima Hafeez 👋
+# Hi, I'm Fatima Hafeez 
 
 I'm an undergraduate student pursuing a Bachelor's degree in Artificial Intelligence, currently building my foundations in programming, data, and computer science.
 
